@@ -1,2 +1,2 @@
-# sptingbootcurd
+# springbootcurd
 Spring Boot CRUD Eample
